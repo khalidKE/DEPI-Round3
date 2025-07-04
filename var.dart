@@ -15,9 +15,9 @@ void main() {
     'age': 30,
     'isStudent': false,
   };
-  person['country'] = 'Saudi Arabia';
+  person['country'] = 'Egypt';
 
-  var city = 'Riyadh';
+  var city = 'Sadat';
   dynamic flexible = 'Text';
   flexible = 123;
 
