@@ -1,7 +1,7 @@
 
 
 ````markdown
-# Dart Data Types Demo
+# Dart Data Types 
 
 This simple Dart program demonstrates the use of all fundamental data types in Dart, including:
 
